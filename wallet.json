@@ -52,6 +52,6 @@
         "url": "https://tonconnectbridge.mytonwallet.org/bridge/"
       }
     ],
-    "platforms": ["chrome", "windows", "macos", "linux"]
+    "platforms": ["ios", "android"]
   }
 ]
